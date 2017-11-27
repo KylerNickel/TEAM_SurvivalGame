@@ -1,5 +1,6 @@
-/TEAM_SurvivalGame/*
+# Ignore everything in root folder
+*
+
+# Un-ignore all of Assets folder
 !/TEAM_SurvivalGame/Assets/
-!/TEAM_SurvivalGame/Assets/*/
-!/TEAM_SurvivalGame/Assets/*/Levels/
-!/TEAM_SurvivalGame/Assets/*/Levels/*
+!.gitignore
