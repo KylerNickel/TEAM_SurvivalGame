@@ -33,4 +33,6 @@ sysinfo.txt
 *.apk
 *.unitypackage
 
-/Library/*
+TEAM_SurvivalGame/Library/
+TEAM_SurvivalGame/Temp/
+TEAM_SurvivalGame/Obj/
