@@ -1,3 +1,5 @@
 /TEAM_SurvivalGame/*
-/TEAM_SurvivalGame/*/
 !/TEAM_SurvivalGame/Assets/
+!/TEAM_SurvivalGame/Assets/*/
+!/TEAM_SurvivalGame/Assets/*/Levels/
+!/TEAM_SurvivalGame/Assets/*/Levels/*
