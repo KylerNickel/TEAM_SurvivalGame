@@ -33,3 +33,9 @@ sysinfo.txt
 *.apk
 *.unitypackage
 
+<<<<<<< HEAD
+=======
+TEAM_SurvivalGame/Library/
+TEAM_SurvivalGame/Temp/
+TEAM_SurvivalGame/Obj/
+>>>>>>> origin/Cameron
